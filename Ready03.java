@@ -13,5 +13,8 @@ public class Ready03 {
 
         int num2 = 30;
         System.out.println(num2);
+        
+        double num3 = 3.14;
+        System.out.println(num3)
     }
 }
